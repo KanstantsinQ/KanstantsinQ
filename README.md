@@ -1,6 +1,6 @@
 <h1>  
 <div id="header" align="center">
-<img src="https://img.shields.io/badge/WELСOME TO MY PAGE-khaki?" width="3000px"/>
+<img src="https://img.shields.io/badge/QA ENGINEER-khaki?" width="3000px"/>
 </div>
 </h1>
 
