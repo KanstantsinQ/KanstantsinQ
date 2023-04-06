@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/konstantynpawlowicz/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-crimson?logo=Instagram&logoColor=white" width="200px" alt="Instagram"/>
 </a>
-<div>
+
 <a href="https://www.linkedin.com/in/kanstantsin-sushko-439242260/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="200px" alt="Linlidin">
 </a>
