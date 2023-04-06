@@ -4,8 +4,8 @@
 
 ---
 
+<div>
 <div id="badges" align="center">
-  <div>
 <a href="https://web.telegram.org/z/" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="200px" alt="Telegram"/>
 </a>
