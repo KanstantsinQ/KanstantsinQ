@@ -4,12 +4,12 @@
 
 ---
 
-<div>
+
 <div id="badges" align="center">
 <a href="https://web.telegram.org/z/" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="200px" alt="Telegram"/>
 </a>
-<div>
+
 <a href="https://www.instagram.com/konstantynpawlowicz/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-crimson?logo=Instagram&logoColor=white" width="200px" alt="Instagram"/>
 </a>
@@ -18,10 +18,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="200px" alt="Linlidin">
 </a>
 </div>
-    </div>
-    </div>
-  </div>
-
+  
 ---
 
 ### About me:
