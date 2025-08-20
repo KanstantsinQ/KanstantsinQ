@@ -31,7 +31,6 @@
 
 - <img src="http://s1.iconbird.com/ico/0512/iconspackbyCem/w128h1281337871726128.png" alt="logo"  width="25px"> <b>I'm a professional driver</b>
 
-- <img src="https://cdn0.iconfinder.com/data/icons/find-a-job-and-interview-flat/512/office_table_business_desk_work_computer_space_laptop_cup_coffee-256.png" alt="logo"  width="25px"> <b>Student of Vadim Ksendzov's QA-courses</b>
 
 ---
 
